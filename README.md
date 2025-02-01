@@ -1,7 +1,7 @@
 # Email development assignment
 
 1. **Copy this code repository into your GitHub account**:
-Open this link: https://github.com/Nagoluaadhi/Assignment-Audi_Kesava_Reddy_Nagolu.git, and use the "Import" feature on GitHub to copy the repository into your account.
+Open this link: https://github.com/Nagoluaadhi/Assignment-Nagolu_Audi_Kesava_Reddy.git, and use the "Import" feature on GitHub to copy the repository into your account.
    1. Name your new repository like this: assessment-your_full_name (e.g., assessment-joe_kumar).
    2. **Important: Do not use the "Fork" option.**
    3. Need help with importing? Check this guide: [How to Import a Repository](https://docs.github.com/en/migrations/importing-source-code/using-github-importer/importing-a-repository-with-github-importer).
